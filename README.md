@@ -1,2 +1,3 @@
-# random-quote-machine
-# Random motivational quote machine task for free code camp
+# Local-weather-app
+
+Local weather app task for free code camp(I will expand this to the weather clothing app in the future)
