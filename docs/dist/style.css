@@ -1,9 +1,10 @@
 body{
-    background-image:url(http://s27.postimg.org/xfiz1fbo3/background_1.png);
+    background-image:url(https://s27.postimg.org/xu7ncrdrn/background_1.png);
     background-size:cover;
 }
 
 .motivation-block{
+    margin-top:50px;
     height:550px;
 }
 
@@ -23,8 +24,9 @@ h2{
     background-color:transparent;
     vertical-align:middle;
     padding-top:70px;
-    -o-border-image: url(dist/0f9194a4fdc288c06009749dfe8d07eb.png) 40 repeat;
-    border-image: url(dist/0f9194a4fdc288c06009749dfe8d07eb.png) 40 repeat;
+    border:35px;
+    -o-border-image: url(http://s29.postimg.org/o0ypbx1mf/border3.png) 40 repeat;
+    border-image: url(http://s29.postimg.org/o0ypbx1mf/border3.png) 40 repeat;
 }
 
 .message span{
@@ -92,8 +94,8 @@ h2{
     margin:10px;
     padding:5px;
     border:10px;
-    -o-border-image: url(dist/0f9194a4fdc288c06009749dfe8d07eb.png) 10 repeat;
-    border-image: url(dist/0f9194a4fdc288c06009749dfe8d07eb.png) 10 repeat;
+    -o-border-image: url(http://s29.postimg.org/o0ypbx1mf/border3.png) 10 repeat;
+    border-image: url(http://s29.postimg.org/o0ypbx1mf/border3.png) 10 repeat;
 }
 
 *:focus {

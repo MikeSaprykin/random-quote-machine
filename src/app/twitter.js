@@ -1,6 +1,9 @@
 /**
  * Created by Mike on 06.02.17.
  */
+/**
+ * Bootstrapping twitter widget button
+ */
 window.twttr = (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0],
         t = window.twttr || {};

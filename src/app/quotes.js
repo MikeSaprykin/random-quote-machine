@@ -1,7 +1,15 @@
 /**
  * Created by Mike on 06.02.17.
  */
-module.exports = function(){
+/**
+ * Array of quote items,
+ * text - is an array of strings to generate that number of span elements and
+ * assign inner text of each according to the index
+ * featuredLines - is an array of objects
+ * index - is an array of element indexes that has to be styled
+ * style - is an object of styles that have to be set to each element, defined in the index array
+ */
+module.exports = function QuotesArray(){
     return [
             {
                 "text": ["Either you", "run the day", "or the day", "runs you"],
