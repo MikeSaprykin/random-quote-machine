@@ -1,9 +1,10 @@
 body{
-    background-image:url(http://s27.postimg.org/xfiz1fbo3/background_1.png);
+    background-image:url(https://s27.postimg.org/xu7ncrdrn/background_1.png);
     background-size:cover;
 }
 
 .motivation-block{
+    margin-top:50px;
     height:550px;
 }
 
