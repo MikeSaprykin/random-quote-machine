@@ -1,7 +1,7 @@
 {
-  "name": "local-weather-app",
+  "name": "random-quote-machine",
   "version": "1.0.0",
-  "description": "Local weather app free code camp task, updated with using webpack, github pages, scss and karma/jasmine unit testing\"",
+  "description": "Random quote machine free code camp task, updated with using webpack, github pages, scss and karma/jasmine unit testing\"",
   "main": "karma.conf.js",
   "directories": {
     "doc": "docs"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikeSaprykin/Local-weather-app.git"
+    "url": "git+https://github.com/MikeSaprykin/random-quote-machine.git"
   },
   "keywords": [
     "JavaScript",
@@ -28,9 +28,9 @@
   "author": "Mike Saprykin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MikeSaprykin/Local-weather-app/issues"
+    "url": "https://github.com/MikeSaprykin/random-quote-machine/issues"
   },
-  "homepage": "https://github.com/MikeSaprykin/Local-weather-app#readme",
+  "homepage": "https://github.com/MikeSaprykin/random-quote-machine#readme",
   "devDependencies": {
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.22.1",
